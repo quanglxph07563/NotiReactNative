@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665086393292",
+    "firebase_url": "https://notifireact.firebaseio.com",
+    "project_id": "notifireact",
+    "storage_bucket": "notifireact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665086393292:android:24a273c7d0dbeb04a3fb69",
+        "android_client_info": {
+          "package_name": "com.notificationreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665086393292-ogba6t5593gm17o3lajgd96d5e6l1g4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZL-cSXKPoYVNsZ-0kRvZYGy8FeUCwhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665086393292-ogba6t5593gm17o3lajgd96d5e6l1g4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
